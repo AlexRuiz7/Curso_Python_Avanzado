@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS Agenda(
+    nombre TEXT NOT NULL,
+    telefono INTEGER -- PRIMARY KEY
+);
