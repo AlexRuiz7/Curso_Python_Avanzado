@@ -1,5 +1,5 @@
 # Curso Avanzado de Python
-Proyecto final de curso avanzada de Python impartido por EventEX
+Proyecto final del curso avanzado de Python impartido por EventEX.
 
 
 ## Requisitos mínimos
